@@ -1,0 +1,291 @@
+{
+  "id": "sequential-circuits-studio-440",
+  "name": "Sequential Circuits Studio 440",
+  "manufacturer": "Sequential Circuits",
+  "collection": "Usa_Uk",
+  "country": null,
+  "images": [
+    "Sequential Circuits Studio 440.jpg"
+  ],
+  "release_year": 1986,
+  "release_year_approx": false,
+  "discontinued_year": 1989,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic",
+    "rare",
+    "collectible"
+  ],
+  "notes": "Sampling drum machine/sequencer; rare, collectible",
+  "instruments": [
+    "Bongo",
+    "Clap",
+    "Conga",
+    "Cowbell",
+    "Crash",
+    "FX",
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
+    "Kick",
+    "Perc",
+    "Ride",
+    "Rim",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 7,
+  "num_samples": 66,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "sequential-circuits-studio-440/1",
+      "num_samples": 24,
+      "instruments": [
+        "Clap",
+        "Cowbell",
+        "Crash",
+        "FX",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Perc",
+        "Ride",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BNGO1_Sequential_Circuit_Studio440_.wav",
+        "CLAP_Sequential_Circuit_Studio440_.wav",
+        "CLHH_Sequential_Circuit_Studio440_.wav",
+        "CNGA1_Sequential_Circuit_Studio440_.wav",
+        "CNGA2_Sequential_Circuit_Studio440_.wav",
+        "COW_Sequential_Circuit_Studio440_.wav",
+        "CRASH_Sequential_Circuit_Studio440_.wav",
+        "ETOM1_Sequential_Circuit_Studio440_.wav",
+        "HIT_Sequential_Circuit_Studio440_.wav",
+        "KICK1_Sequential_Circuit_Studio440_.wav",
+        "KICK2_Sequential_Circuit_Studio440_.wav",
+        "KICK3_Sequential_Circuit_Studio440_.wav",
+        "NOISE_Sequential_Circuit_Studio440_.wav",
+        "OHH_Sequential_Circuit_Studio440_.wav",
+        "RIDE_Sequential_Circuit_Studio440_.wav",
+        "SAKER_Sequential_Circuit_Studio440_.wav",
+        "SN1_Sequential_Circuit_Studio440_.wav",
+        "SN2_Sequential_Circuit_Studio440_.wav",
+        "SN3_Sequential_Circuit_Studio440_.wav",
+        "STICK_Sequential_Circuit_Studio440_.wav",
+        "TOM1_Sequential_Circuit_Studio440_.wav",
+        "TOM2_Sequential_Circuit_Studio440_.wav",
+        "TOM3_Sequential_Circuit_Studio440_.wav",
+        "ZAP_Sequential_Circuit_Studio440_.wav"
+      ],
+      "sample_instruments": [
+        "",
+        "Clap",
+        "Hi-Hat Closed",
+        "",
+        "",
+        "Cowbell",
+        "Crash",
+        "Tom",
+        "Perc",
+        "Kick",
+        "Kick",
+        "Kick",
+        "FX",
+        "Hi-Hat Open",
+        "Ride",
+        "",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Rim",
+        "Tom",
+        "Tom",
+        "Tom",
+        "FX"
+      ]
+    },
+    {
+      "path": "2",
+      "set": "2",
+      "url_path": "sequential-circuits-studio-440/2",
+      "num_samples": 18,
+      "instruments": [
+        "Bongo",
+        "Clap",
+        "Conga",
+        "Cowbell",
+        "Crash",
+        "FX",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Ride",
+        "Snare"
+      ],
+      "samples": [
+        "BassDrum0.wav",
+        "BassDrum20.wav",
+        "BassDrum30.wav",
+        "Bongo0.wav",
+        "Clap0.wav",
+        "Closehh0.wav",
+        "Cowbell0.wav",
+        "Crash0.wav",
+        "Lo Conga0.wav",
+        "Md Conga0.wav",
+        "Noise0.wav",
+        "Openhh0.wav",
+        "Ride0.wav",
+        "Shak0.wav",
+        "SnareDrum0.wav",
+        "SnareDrum20.wav",
+        "SnareDrum30.wav",
+        "Zapp0.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Kick",
+        "Kick",
+        "Bongo",
+        "Clap",
+        "Hi-Hat Closed",
+        "Cowbell",
+        "Crash",
+        "Conga",
+        "Conga",
+        "",
+        "Hi-Hat Open",
+        "Ride",
+        "",
+        "Snare",
+        "Snare",
+        "Snare",
+        "FX"
+      ]
+    },
+    {
+      "path": "3/8bit Degraded [Mono]",
+      "set": "3",
+      "url_path": "sequential-circuits-studio-440/3/8bit Degraded [Mono]",
+      "num_samples": 10,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open"
+      ],
+      "samples": [
+        "SEQ Closed Hi Hat [Bit 1].wav",
+        "SEQ Closed Hi Hat [Bit 2].wav",
+        "SEQ Closed Hi Hat [Bit 3].wav",
+        "SEQ Closed Hi Hat [Bit 4].wav",
+        "SEQ Closed Hi Hat [Bit 5].wav",
+        "SEQ Open Hi Hat [Bit 1].wav",
+        "SEQ Open Hi Hat [Bit 2].wav",
+        "SEQ Open Hi Hat [Bit 3].wav",
+        "SEQ Open Hi Hat [Bit 4].wav",
+        "SEQ Open Hi Hat [Bit 5].wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Hi-Hat Open"
+      ]
+    },
+    {
+      "path": "3/Dry",
+      "set": "3",
+      "url_path": "sequential-circuits-studio-440/3/Dry",
+      "num_samples": 2,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open"
+      ],
+      "samples": [
+        "SEQ Closed Hi Hat.wav",
+        "SEQ Open Hi Hat.wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open"
+      ]
+    },
+    {
+      "path": "3/Glitch & Distort",
+      "set": "3",
+      "url_path": "sequential-circuits-studio-440/3/Glitch & Distort",
+      "num_samples": 6,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open"
+      ],
+      "samples": [
+        "SEQ Closed Hi Hat [Dist 1].wav",
+        "SEQ Closed Hi Hat [Dist 2].wav",
+        "SEQ Closed Hi Hat [Dist 3].wav",
+        "SEQ Open Hi Hat [Dist 1].wav",
+        "SEQ Open Hi Hat [Dist 2].wav",
+        "SEQ Open Hi Hat [Dist 3].wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Hi-Hat Open"
+      ]
+    },
+    {
+      "path": "3/Slammed",
+      "set": "3",
+      "url_path": "sequential-circuits-studio-440/3/Slammed",
+      "num_samples": 2,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open"
+      ],
+      "samples": [
+        "SEQ Closed Hi Hat [Slam].wav",
+        "SEQ Open Hi Hat [Slam].wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open"
+      ]
+    },
+    {
+      "path": "3/Wet",
+      "set": "3",
+      "url_path": "sequential-circuits-studio-440/3/Wet",
+      "num_samples": 4,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open"
+      ],
+      "samples": [
+        "SEQ Closed Hi Hat [Close].wav",
+        "SEQ Closed Hi Hat [Long].wav",
+        "SEQ Open Hi Hat [Close].wav",
+        "SEQ Open Hi Hat [Long].wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Hi-Hat Open"
+      ]
+    }
+  ],
+  "total_bytes": 3379188
+}

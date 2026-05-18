@@ -1,0 +1,275 @@
+[
+  {
+    "machine_id": "casio-ht-700",
+    "machine_name": "Casio HT-700",
+    "release_year": 1986,
+    "url_path": "casio-ht-700/1",
+    "file": "Agogo Hi.wav"
+  },
+  {
+    "machine_id": "casio-ht-700",
+    "machine_name": "Casio HT-700",
+    "release_year": 1986,
+    "url_path": "casio-ht-700/1",
+    "file": "Agogo Low.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/1",
+    "file": "Agogo.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Agogo [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Agogo [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Agogo [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Agogo [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Agogo [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Dry",
+    "file": "DDD5 Agogo.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Agogo [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Agogo [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Agogo [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Slammed",
+    "file": "DDD5 Agogo [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Agogo [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Agogo [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Hi [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Hi [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Hi [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Hi [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Hi [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Low [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Low [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Low [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Low [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Agogo Low [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Dry",
+    "file": "RX21L Agogo Hi.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Dry",
+    "file": "RX21L Agogo Low.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Agogo Hi [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Agogo Hi [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Agogo Hi [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Agogo Low [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Agogo Low [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Agogo Low [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Slammed",
+    "file": "RX21L Agogo Hi [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Slammed",
+    "file": "RX21L Agogo Low [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Agogo Hi [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Agogo Hi [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Agogo Low [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Agogo Low [Long].wav"
+  }
+]

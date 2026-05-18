@@ -1,0 +1,254 @@
+[
+  {
+    "machine_id": "casio-ct-403",
+    "machine_name": "Casio CT-403",
+    "release_year": 1986,
+    "url_path": "casio-ct-403/1",
+    "file": "Clave.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clave808_Clean.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clave808_Fat1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clave808_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clave808_Tape2.wav"
+  },
+  {
+    "machine_id": "cheetah-spec-drum",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Afro_5_Clave.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clave [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clave [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clave [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clave [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clave [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Dry",
+    "file": "DDD5 Clave.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Clave [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Clave [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Clave [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Slammed",
+    "file": "DDD5 Clave [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Clave [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Clave [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Clave_Clean.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Clave_Fat1.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Clave_Fat2.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Clave_Tape1.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Clave_Tape2.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Clave [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Clave [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Clave [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Clave [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Clave [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Dry",
+    "file": "RX21L Clave.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Clave [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Clave [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Clave [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Slammed",
+    "file": "RX21L Clave [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Clave [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Clave [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/3",
+    "file": "Claves.wav"
+  }
+]

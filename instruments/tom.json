@@ -1,0 +1,2410 @@
+[
+  {
+    "machine_id": "casio-ct-403",
+    "machine_name": "Casio CT-403",
+    "release_year": 1986,
+    "url_path": "casio-ct-403/1",
+    "file": "Tom.wav"
+  },
+  {
+    "machine_id": "casio-ht-700",
+    "machine_name": "Casio HT-700",
+    "release_year": 1986,
+    "url_path": "casio-ht-700/1",
+    "file": "Tom Hi.wav"
+  },
+  {
+    "machine_id": "casio-ht-700",
+    "machine_name": "Casio HT-700",
+    "release_year": 1986,
+    "url_path": "casio-ht-700/1",
+    "file": "Tom Low.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 1 [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 1 [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 1 [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 1 [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 1 [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 2 [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 2 [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 2 [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 2 [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 2 [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 3 [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 3 [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 3 [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 3 [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Tom 3 [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Dry",
+    "file": "RZ1 Tom 1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Dry",
+    "file": "RZ1 Tom 2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Dry",
+    "file": "RZ1 Tom 3.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Tom 1 [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Tom 1 [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Tom 1 [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Tom 2 [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Tom 2 [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Tom 2 [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Tom 3 [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Tom 3 [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Tom 3 [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Slammed",
+    "file": "RZ1 Tom 1 [Slam].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Slammed",
+    "file": "RZ1 Tom 2 [Slam].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Slammed",
+    "file": "RZ1 Tom 3 [Slam].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Tom 1 [Close].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Tom 1 [Long].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Tom 2 [Close].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Tom 2 [Long].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Tom 3 [Close].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Tom 3 [Long].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom1_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom1_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom1_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom1_accent_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom1_accent_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom1_accent_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom2_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom2_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom2_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom2_accent_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom2_accent_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom2_accent_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom3_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom3_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom3_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom3_accent_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom3_accent_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Tom3_accent_Tape2.wav"
+  },
+  {
+    "machine_id": "cheetah-spec-drum",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Electro_4_E_Lotom.wav"
+  },
+  {
+    "machine_id": "cheetah-spec-drum",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Orig_3_Mid_Tom.wav"
+  },
+  {
+    "machine_id": "cheetah-spec-drum",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Orig_4_Low_Tom.wav"
+  },
+  {
+    "machine_id": "forat-f-9000",
+    "machine_name": "Forat F-9000",
+    "release_year": 1986,
+    "url_path": "forat-f-9000/1",
+    "file": "Tom1.wav"
+  },
+  {
+    "machine_id": "forat-f-9000",
+    "machine_name": "Forat F-9000",
+    "release_year": 1986,
+    "url_path": "forat-f-9000/1",
+    "file": "Tom2.wav"
+  },
+  {
+    "machine_id": "forat-f-9000",
+    "machine_name": "Forat F-9000",
+    "release_year": 1986,
+    "url_path": "forat-f-9000/1",
+    "file": "Tom3.wav"
+  },
+  {
+    "machine_id": "forat-f-9000",
+    "machine_name": "Forat F-9000",
+    "release_year": 1986,
+    "url_path": "forat-f-9000/1",
+    "file": "Tom4.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/1",
+    "file": "Tom1.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/1",
+    "file": "Tom2.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/1",
+    "file": "Tom3.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom High [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom High [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom High [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom High [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom High [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Low [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Low [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Low [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Low [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Low [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Mid [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Mid [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Mid [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Mid [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tom Mid [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Dry",
+    "file": "DDD5 Tom High.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Dry",
+    "file": "DDD5 Tom Low.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Dry",
+    "file": "DDD5 Tom Mid.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tom High [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tom High [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tom High [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tom Low [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tom Low [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tom Low [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tom Mid [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tom Mid [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tom Mid [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Slammed",
+    "file": "DDD5 Tom High [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Slammed",
+    "file": "DDD5 Tom Low [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Slammed",
+    "file": "DDD5 Tom Mid [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Tom High [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Tom High [Long].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Tom Low [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Tom Low [Long].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Tom Mid [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Tom Mid [Long].wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/1",
+    "file": "HiTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/1",
+    "file": "LoTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "HiTom_127.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "HiTom_31.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "HiTom_63.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "HiTom_95.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "LoTom_127.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "LoTom_31.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "LoTom_63.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "LoTom_95.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/3",
+    "file": "HiTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/3",
+    "file": "LoTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "HiTom_127.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "HiTom_31.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "HiTom_63.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "HiTom_95.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "LoTom_127.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "LoTom_31.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "LoTom_63.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "LoTom_95.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/5",
+    "file": "HiTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/5",
+    "file": "LoTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/6",
+    "file": "HiTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/6",
+    "file": "LoTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/7",
+    "file": "HiTom_127.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/7",
+    "file": "HiTom_63.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/7",
+    "file": "HiTom_95.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/7",
+    "file": "LoTom_127.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/7",
+    "file": "LoTom_63.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/7",
+    "file": "LoTom_95.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/8",
+    "file": "HiTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/8",
+    "file": "LoTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/9",
+    "file": "HiTom.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/9",
+    "file": "LoTom.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A1_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A1_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A1_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A1_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A1_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A2_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A2_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A2_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A2_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A2_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A3_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A3_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A3_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A3_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A3_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A4_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A4_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A4_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A4_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A4_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A5_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A5_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A5_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A5_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_A5_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B1_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B1_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B1_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B1_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B1_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B2_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B2_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B2_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B2_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B2_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B3_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B3_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B3_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B3_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B3_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B4_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B4_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B4_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B4_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B4_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B5_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B5_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B5_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B5_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_B5_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C1_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C1_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C1_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C1_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C1_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C2_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C2_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C2_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C2_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C2_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C3_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C3_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C3_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C3_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C3_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C4_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C4_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C4_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C4_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C4_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C5_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C5_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C5_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C5_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C5_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C6_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C6_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C6_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C6_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C6_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C7_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C7_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C7_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C7_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C7_Tape2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C8_Clean.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C8_Fat1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C8_Fat2.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C8_Tape1.wav"
+  },
+  {
+    "machine_id": "m-p-c-electronics-dsm-1",
+    "machine_name": "M.P.C. Electronics DSM-1",
+    "release_year": 1986,
+    "url_path": "m-p-c-electronics-dsm-1/1",
+    "file": "DSM1_Tom_C8_Tape2.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/2",
+    "file": "TR505tom1.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/2",
+    "file": "TR505tom2.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/2",
+    "file": "TR505tom3.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/3",
+    "file": "High_tom_TR-505.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/3",
+    "file": "Low_tom_TR-505.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/3",
+    "file": "Mid_Tom_TR-505.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Hi [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Hi [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Hi [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Hi [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Hi [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Low [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Low [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Low [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Low [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Low [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Mid [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Mid [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Mid [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Mid [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Tom Mid [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Dry",
+    "file": "TR505 Tom Hi.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Dry",
+    "file": "TR505 Tom Low.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Dry",
+    "file": "TR505 Tom Mid.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Tom Hi [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Tom Hi [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Tom Hi [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Tom Low [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Tom Low [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Tom Low [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Tom Mid [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Tom Mid [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Tom Mid [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Slammed",
+    "file": "TR505 Tom Hi [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Slammed",
+    "file": "TR505 Tom Low [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Slammed",
+    "file": "TR505 Tom Mid [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Tom Hi [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Tom Hi [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Tom Low [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Tom Low [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Tom Mid [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Tom Mid [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_TomMid_C2A.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_TomMid_C2S.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_TomMid_T1A.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_TomMid_T1S.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_TomMid_aOrig.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "High Tom-Tom.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Low Tom-Tom.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Mid Tom-Tom.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Tom Hi.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Tom Lo.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Tom Mid.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Tom_01_Handy.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Tom_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Tom_01_TechVari.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Tom_02_Handy.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Tom_02_PJPJ.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Tom_02_TechVari.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Tom_03_Handy.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Tom_03_PJPJ.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Tom_03_TechVari.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/8/Hits",
+    "file": "HI TOM.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/8/Hits",
+    "file": "LO TOM.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/8/Hits",
+    "file": "MID TOM.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/9",
+    "file": "Reverb Roland TR 505 Sample Pack_Tom1.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/9",
+    "file": "Reverb Roland TR 505 Sample Pack_Tom2.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/9",
+    "file": "Reverb Roland TR 505 Sample Pack_Tom3.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/1",
+    "file": "ETOM1_Sequential_Circuit_Studio440_.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/1",
+    "file": "TOM1_Sequential_Circuit_Studio440_.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/1",
+    "file": "TOM2_Sequential_Circuit_Studio440_.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/1",
+    "file": "TOM3_Sequential_Circuit_Studio440_.wav"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/1/SDS2000_Factory1",
+    "file": "HT1.wav"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/1/SDS2000_Factory1",
+    "file": "LT1.wav"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/1/SDS2000_Factory1",
+    "file": "MT1.wav"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/2/SDS2000_Factory2",
+    "file": "HT2.wav"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/2/SDS2000_Factory2",
+    "file": "LT2.wav"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/2/SDS2000_Factory2",
+    "file": "MT2.wav"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/3/SDS2000_Factory3",
+    "file": "HT3.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/3/SDS2000_Factory3",
+    "file": "LT3.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/3/SDS2000_Factory3",
+    "file": "MT3.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/4/SDS2000_Factory4",
+    "file": "HT4.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/4/SDS2000_Factory4",
+    "file": "LT4.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/4/SDS2000_Factory4",
+    "file": "MT4.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/5/SDS2000_Factory5",
+    "file": "HT5.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/5/SDS2000_Factory5",
+    "file": "LT5.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/5/SDS2000_Factory5",
+    "file": "MT5.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/6/SDS2000_Factory6",
+    "file": "HT6.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/6/SDS2000_Factory6",
+    "file": "LT6.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/6/SDS2000_Factory6",
+    "file": "MT6.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/7/SDS2000_Factory7",
+    "file": "HT7.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/7/SDS2000_Factory7",
+    "file": "LT7.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/7/SDS2000_Factory7",
+    "file": "MT7.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/8/SDS2000_Factory8",
+    "file": "HT8.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/8/SDS2000_Factory8",
+    "file": "LT8.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-2000",
+    "machine_name": "Simmons SDS-2000",
+    "release_year": 1986,
+    "url_path": "simmons-sds-2000/8/SDS2000_Factory8",
+    "file": "MT8.WAV"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Ht1.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Ht2.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Ht3.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Ht4.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Lt1.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Lt2.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Lt3.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Lt4.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Mt1.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Mt2.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Mt3.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Mt4.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "HighTom1.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "HighTom2.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "HighTom3.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "LowTom1.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "LowTom2.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "LowTom3.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "MidTom1.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "MidTom2.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "MidTom3.wav"
+  }
+]

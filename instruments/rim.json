@@ -1,0 +1,730 @@
+[
+  {
+    "machine_id": "casio-cz-230s",
+    "machine_name": "Casio CZ-230S",
+    "release_year": 1986,
+    "url_path": "casio-cz-230s/1",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "casio-ht-700",
+    "machine_name": "Casio HT-700",
+    "release_year": 1986,
+    "url_path": "casio-ht-700/1",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/1",
+    "file": "Rs.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Rim [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Rim [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Rim [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Rim [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Rim [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Dry",
+    "file": "RZ1 Rim.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Rim [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Rim [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Rim [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Slammed",
+    "file": "RZ1 Rim [Slam].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Rim [Close].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Rim [Long].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim808_Clean.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim808_Fat1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim808_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim808_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_RimVinyl_Clean.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_RimVinyl_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_RimVinyl_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_RimVinyl_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim_accent_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim_accent_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Rim_accent_Tape2.wav"
+  },
+  {
+    "machine_id": "cheetah-spec-drum",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Latin_6_Stick.wav"
+  },
+  {
+    "machine_id": "forat-f-9000",
+    "machine_name": "Forat F-9000",
+    "release_year": 1986,
+    "url_path": "forat-f-9000/1",
+    "file": "Stick.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/1",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/1",
+    "file": "Stick.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Rim [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Rim [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Rim [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Rim [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Rim [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Stick [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Stick [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Stick [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Stick [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Stick [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Dry",
+    "file": "DDD5 Rim.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Dry",
+    "file": "DDD5 Stick.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Rim [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Rim [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Rim [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Stick [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Stick [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Stick [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Slammed",
+    "file": "DDD5 Rim [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Slammed",
+    "file": "DDD5 Stick [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Rim [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Rim [Long].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Stick [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Stick [Long].wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/1",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "Rimshot_127.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "Rimshot_31.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "Rimshot_63.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/2",
+    "file": "Rimshot_95.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/3",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "Rimshot_127.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "Rimshot_31.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "Rimshot_63.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/4",
+    "file": "Rimshot_95.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/5",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/6",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/7",
+    "file": "Rimshot_127.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/7",
+    "file": "Rimshot_63.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/7",
+    "file": "Rimshot_95.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/8",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "korg-dss-1",
+    "machine_name": "Korg DSS-1",
+    "release_year": 1986,
+    "url_path": "korg-dss-1/9",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/1",
+    "file": "TR-505Rim.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/2",
+    "file": "TR505rim.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/3",
+    "file": "Rim_TR-505.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Rim Shot [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Rim Shot [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Rim Shot [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Rim Shot [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Rim Shot [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Dry",
+    "file": "TR505 Rim Shot.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Rim Shot [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Rim Shot [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Rim Shot [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Slammed",
+    "file": "TR505 Rim Shot [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Rim Shot [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Rim Shot [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Rim_C2A.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Rim_C2S.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Rim_T1A.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Rim_T1S.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Rim_aOrig.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Rim Shot.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Rim_01_Handy.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Rim_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Rim_01_TechVari.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/8/Hits",
+    "file": "RIM SHOT.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/9",
+    "file": "Reverb Roland TR 505 Sample Pack_Rim.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/1",
+    "file": "STICK_Sequential_Circuit_Studio440_.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "RimSlap.wav"
+  }
+]

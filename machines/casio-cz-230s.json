@@ -1,0 +1,81 @@
+{
+  "id": "casio-cz-230s",
+  "name": "Casio CZ-230S",
+  "manufacturer": "Casio",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Casio CZ-230S.jpg"
+  ],
+  "release_year": 1986,
+  "release_year_approx": true,
+  "discontinued_year": 1989,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic",
+    "collectible"
+  ],
+  "notes": "Phase distortion synth; uncommon, mildly collectible",
+  "instruments": [
+    "Clap",
+    "Cowbell",
+    "Crash",
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
+    "Kick",
+    "Ride",
+    "Rim",
+    "Snare"
+  ],
+  "num_sets": 1,
+  "num_samples": 12,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "casio-cz-230s/1",
+      "num_samples": 12,
+      "instruments": [
+        "Clap",
+        "Cowbell",
+        "Crash",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Ride",
+        "Rim",
+        "Snare"
+      ],
+      "samples": [
+        "Chh.wav",
+        "Clap.wav",
+        "Cow.wav",
+        "Crash.wav",
+        "Kick.wav",
+        "Ohh.wav",
+        "Ride.wav",
+        "Rim.wav",
+        "Snare.wav",
+        "TomH.wav",
+        "TomL.wav",
+        "TomM.wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Clap",
+        "Cowbell",
+        "Crash",
+        "Kick",
+        "Hi-Hat Open",
+        "Ride",
+        "Rim",
+        "Snare",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "total_bytes": 300706
+}

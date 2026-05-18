@@ -1,0 +1,44 @@
+[
+  {
+    "machine_id": "pearl-sy-1",
+    "machine_name": "Pearl SY-1",
+    "release_year": 1986,
+    "url_path": "pearl-sy-1/2",
+    "file": "synfx1_Pearls_Syncssion.wav"
+  },
+  {
+    "machine_id": "pearl-sy-1",
+    "machine_name": "Pearl SY-1",
+    "release_year": 1986,
+    "url_path": "pearl-sy-1/2",
+    "file": "synfx_Pearls_Syncssion.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/1",
+    "file": "NOISE_Sequential_Circuit_Studio440_.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/1",
+    "file": "ZAP_Sequential_Circuit_Studio440_.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/2",
+    "file": "Zapp0.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "Noise.WAV"
+  }
+]

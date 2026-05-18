@@ -1,0 +1,66 @@
+{
+  "id": "casio-ct-403",
+  "name": "Casio CT-403",
+  "manufacturer": "Casio",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Casio CT-403.jpg"
+  ],
+  "release_year": 1986,
+  "release_year_approx": true,
+  "discontinued_year": 1989,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic"
+  ],
+  "notes": "Budget Casio keyboard; uncommon",
+  "instruments": [
+    "Clave",
+    "Hi-Hat Closed",
+    "Kick",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 1,
+  "num_samples": 9,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "casio-ct-403/1",
+      "num_samples": 9,
+      "instruments": [
+        "Clave",
+        "Hi-Hat Closed",
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BassDrum_1.wav",
+        "BassDrum_2.wav",
+        "Clave.wav",
+        "HiHat.wav",
+        "Snare1.wav",
+        "Snare2.wav",
+        "Snare3.wav",
+        "Snare4.wav",
+        "Tom.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Kick",
+        "Clave",
+        "Hi-Hat Closed",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Tom"
+      ]
+    }
+  ],
+  "total_bytes": 577014
+}

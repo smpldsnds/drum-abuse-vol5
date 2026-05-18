@@ -1,0 +1,594 @@
+[
+  {
+    "id": "casio-ct-403",
+    "name": "Casio CT-403",
+    "manufacturer": "Casio",
+    "collection": "Japan",
+    "country": null,
+    "images": [
+      "Casio CT-403.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1989,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic"
+    ],
+    "instruments": [
+      "Clave",
+      "Hi-Hat Closed",
+      "Kick",
+      "Snare",
+      "Tom"
+    ],
+    "num_sets": 1,
+    "num_samples": 9,
+    "total_bytes": 577014
+  },
+  {
+    "id": "casio-cz-230s",
+    "name": "Casio CZ-230S",
+    "manufacturer": "Casio",
+    "collection": "Japan",
+    "country": null,
+    "images": [
+      "Casio CZ-230S.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1989,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "collectible"
+    ],
+    "instruments": [
+      "Clap",
+      "Cowbell",
+      "Crash",
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
+      "Kick",
+      "Ride",
+      "Rim",
+      "Snare"
+    ],
+    "num_sets": 1,
+    "num_samples": 12,
+    "total_bytes": 300706
+  },
+  {
+    "id": "casio-ht-700",
+    "name": "Casio HT-700",
+    "manufacturer": "Casio",
+    "collection": "Japan",
+    "country": null,
+    "images": [
+      "Casio HT-700.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1989,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic"
+    ],
+    "instruments": [
+      "Agogo",
+      "Bongo",
+      "Clap",
+      "Conga",
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
+      "Kick",
+      "Rim",
+      "Snare",
+      "Tom"
+    ],
+    "num_sets": 1,
+    "num_samples": 15,
+    "total_bytes": 719666
+  },
+  {
+    "id": "casio-rz-1",
+    "name": "Casio RZ-1",
+    "manufacturer": "Casio",
+    "collection": "Japan",
+    "country": null,
+    "images": [
+      "Casio RZ-1.jpeg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": false,
+    "discontinued_year": 1989,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "collectible"
+    ],
+    "instruments": [
+      "Clap",
+      "Clave",
+      "Conga",
+      "Cowbell",
+      "Crash",
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
+      "Kick",
+      "Ride",
+      "Rim",
+      "Snare",
+      "Tom"
+    ],
+    "num_sets": 8,
+    "num_samples": 406,
+    "total_bytes": 21783214
+  },
+  {
+    "id": "cheetah-spec-drum",
+    "name": "Cheetah Spec-Drum",
+    "manufacturer": "Cheetah",
+    "collection": "Usa_Uk",
+    "country": null,
+    "images": [
+      "Cheetah Spec-Drum.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "rare"
+    ],
+    "instruments": [
+      "Clap",
+      "Clave",
+      "Conga",
+      "Cowbell",
+      "Cymbal",
+      "Guiro",
+      "Hi-Hat Closed",
+      "Kick",
+      "Rim",
+      "Snare",
+      "Timbale",
+      "Tom",
+      "Whistle"
+    ],
+    "num_sets": 1,
+    "num_samples": 32,
+    "total_bytes": 456558
+  },
+  {
+    "id": "forat-f-9000",
+    "name": "Forat F-9000",
+    "manufacturer": "Forat",
+    "collection": "Usa_Uk",
+    "country": null,
+    "images": [
+      "Forat F-9000.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "very_rare"
+    ],
+    "instruments": [
+      "Clap",
+      "Conga",
+      "Cowbell",
+      "Crash",
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
+      "Kick",
+      "Ride",
+      "Rim",
+      "Snare",
+      "Tambourine",
+      "Tom"
+    ],
+    "num_sets": 1,
+    "num_samples": 21,
+    "total_bytes": 615984
+  },
+  {
+    "id": "korg-ddd-5",
+    "name": "Korg DDD-5",
+    "manufacturer": "Korg",
+    "collection": "Korg",
+    "country": null,
+    "images": [
+      "Korg DDD-5.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic"
+    ],
+    "instruments": [
+      "Agogo",
+      "Bongo",
+      "Cabasa",
+      "Clap",
+      "Clave",
+      "Conga",
+      "Cowbell",
+      "Crash",
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
+      "Kick",
+      "Perc",
+      "Ride",
+      "Rim",
+      "Snare",
+      "Tambourine",
+      "Tom"
+    ],
+    "num_sets": 6,
+    "num_samples": 353,
+    "total_bytes": 28338536
+  },
+  {
+    "id": "korg-dss-1",
+    "name": "Korg DSS-1",
+    "manufacturer": "Korg",
+    "collection": "Korg",
+    "country": null,
+    "images": [
+      "Korg DSS-1.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": false,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "rare",
+      "collectible"
+    ],
+    "instruments": [
+      "Crash",
+      "Hi-Hat Closed",
+      "Kick",
+      "Ride",
+      "Rim",
+      "Snare",
+      "Tom"
+    ],
+    "num_sets": 9,
+    "num_samples": 188,
+    "total_bytes": 23475432
+  },
+  {
+    "id": "m-p-c-electronics-dsm-1",
+    "name": "M.P.C. Electronics DSM-1",
+    "manufacturer": "M.P.C. Electronics",
+    "collection": "Japan",
+    "country": null,
+    "images": [
+      "M.P.C. Electronics DSM-1.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "very_rare"
+    ],
+    "instruments": [
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
+      "Kick",
+      "Snare",
+      "Tom"
+    ],
+    "num_sets": 1,
+    "num_samples": 515,
+    "total_bytes": 36320620
+  },
+  {
+    "id": "pearl-sy-1",
+    "name": "Pearl SY-1",
+    "manufacturer": "Pearl",
+    "collection": "Japan",
+    "country": null,
+    "images": [
+      "Pearl SY-1.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "rare"
+    ],
+    "instruments": [
+      "Clap",
+      "FX",
+      "Hi-Hat Closed",
+      "Kick",
+      "Snare"
+    ],
+    "num_sets": 3,
+    "num_samples": 194,
+    "total_bytes": 14620870
+  },
+  {
+    "id": "boss-dr-pad-drp-i",
+    "name": "Boss DR-Pad DRP-I",
+    "manufacturer": "Roland",
+    "collection": "Roland",
+    "country": null,
+    "images": [
+      "Boss DR-Pad DRP-I.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic"
+    ],
+    "instruments": [
+      "Clap",
+      "Crash",
+      "Snare",
+      "Tambourine",
+      "Timbale"
+    ],
+    "num_sets": 1,
+    "num_samples": 6,
+    "total_bytes": 508694
+  },
+  {
+    "id": "roland-tr-505",
+    "name": "Roland TR-505",
+    "manufacturer": "Roland",
+    "collection": "Roland",
+    "country": null,
+    "images": [
+      "Roland TR-505.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": false,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic"
+    ],
+    "instruments": [
+      "Clap",
+      "Conga",
+      "Cowbell",
+      "Crash",
+      "Cymbal",
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
+      "Kick",
+      "Ride",
+      "Rim",
+      "Snare",
+      "Timbale",
+      "Tom"
+    ],
+    "num_sets": 16,
+    "num_samples": 472,
+    "total_bytes": 72222484
+  },
+  {
+    "id": "sequential-circuits-studio-440",
+    "name": "Sequential Circuits Studio 440",
+    "manufacturer": "Sequential Circuits",
+    "collection": "Usa_Uk",
+    "country": null,
+    "images": [
+      "Sequential Circuits Studio 440.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": false,
+    "discontinued_year": 1989,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "rare",
+      "collectible"
+    ],
+    "instruments": [
+      "Bongo",
+      "Clap",
+      "Conga",
+      "Cowbell",
+      "Crash",
+      "FX",
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
+      "Kick",
+      "Perc",
+      "Ride",
+      "Rim",
+      "Snare",
+      "Tom"
+    ],
+    "num_sets": 7,
+    "num_samples": 66,
+    "total_bytes": 3379188
+  },
+  {
+    "id": "simmons-sds-2000",
+    "name": "Simmons SDS-2000",
+    "manufacturer": "Simmons",
+    "collection": "Usa_Uk",
+    "country": null,
+    "images": [
+      "Simmons SDS-2000.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "rare"
+    ],
+    "instruments": [
+      "Kick",
+      "Snare",
+      "Tom"
+    ],
+    "num_sets": 8,
+    "num_samples": 40,
+    "total_bytes": 2295302
+  },
+  {
+    "id": "simmons-sdx",
+    "name": "Simmons SDX",
+    "manufacturer": "Simmons",
+    "collection": "Usa_Uk",
+    "country": null,
+    "images": [
+      "Simmons SDX.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": false,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic",
+      "very_rare"
+    ],
+    "instruments": [
+      "Bell",
+      "Clap",
+      "Cymbal",
+      "Gong",
+      "Hi-Hat Closed",
+      "Kick",
+      "Perc",
+      "Ride",
+      "Rim",
+      "Shaker",
+      "Snare",
+      "Tambourine",
+      "Timbale",
+      "Tom"
+    ],
+    "num_sets": 1,
+    "num_samples": 56,
+    "total_bytes": 4024416
+  },
+  {
+    "id": "yamaha-pss-130",
+    "name": "Yamaha PSS-130",
+    "manufacturer": "Yamaha",
+    "collection": "Yamaha",
+    "country": null,
+    "images": [
+      "Yamaha PSS-130.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic"
+    ],
+    "instruments": [
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
+      "Kick",
+      "Snare"
+    ],
+    "num_sets": 1,
+    "num_samples": 4,
+    "total_bytes": 686494
+  },
+  {
+    "id": "yamaha-ptx8",
+    "name": "Yamaha PTX8",
+    "manufacturer": "Yamaha",
+    "collection": "Yamaha",
+    "country": null,
+    "images": [
+      "Yamaha PTX8.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": false,
+    "discontinued_year": null,
+    "discontinued_year_approx": false,
+    "current_production": false,
+    "tags": [],
+    "instruments": [
+      "Bongo",
+      "Clap",
+      "Conga",
+      "Cowbell",
+      "Crash",
+      "FX",
+      "Hi-Hat Closed",
+      "Kick",
+      "Rim",
+      "Snare",
+      "Tom"
+    ],
+    "num_sets": 1,
+    "num_samples": 36,
+    "total_bytes": 1642408
+  },
+  {
+    "id": "yamaha-rx-21l",
+    "name": "Yamaha RX-21L",
+    "manufacturer": "Yamaha",
+    "collection": "Yamaha",
+    "country": null,
+    "images": [
+      "Yamaha RX-21L.jpg"
+    ],
+    "release_year": 1986,
+    "release_year_approx": true,
+    "discontinued_year": 1990,
+    "discontinued_year_approx": true,
+    "current_production": false,
+    "tags": [
+      "classic"
+    ],
+    "instruments": [
+      "Agogo",
+      "Bongo",
+      "Clave",
+      "Conga",
+      "Cowbell",
+      "Cuica",
+      "Tambourine",
+      "Timbale",
+      "Whistle"
+    ],
+    "num_sets": 7,
+    "num_samples": 288,
+    "total_bytes": 19555482
+  }
+]

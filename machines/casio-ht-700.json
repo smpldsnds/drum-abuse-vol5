@@ -1,0 +1,88 @@
+{
+  "id": "casio-ht-700",
+  "name": "Casio HT-700",
+  "manufacturer": "Casio",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Casio HT-700.jpg"
+  ],
+  "release_year": 1986,
+  "release_year_approx": true,
+  "discontinued_year": 1989,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic"
+  ],
+  "notes": "Budget analog/digital hybrid; uncommon",
+  "instruments": [
+    "Agogo",
+    "Bongo",
+    "Clap",
+    "Conga",
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
+    "Kick",
+    "Rim",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 1,
+  "num_samples": 15,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "casio-ht-700/1",
+      "num_samples": 15,
+      "instruments": [
+        "Agogo",
+        "Bongo",
+        "Clap",
+        "Conga",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "Agogo Hi.wav",
+        "Agogo Low.wav",
+        "Bongo Hi.wav",
+        "Bongo Low.wav",
+        "Clap.wav",
+        "Conga Hi.wav",
+        "Conga Low.wav",
+        "Hat Closed.wav",
+        "Hat Open.wav",
+        "Hat Pedal.wav",
+        "Kick.wav",
+        "Rim.wav",
+        "Snare.wav",
+        "Tom Hi.wav",
+        "Tom Low.wav"
+      ],
+      "sample_instruments": [
+        "Agogo",
+        "Agogo",
+        "Bongo",
+        "Bongo",
+        "Clap",
+        "Conga",
+        "Conga",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Hi-Hat Closed",
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom",
+        "Tom"
+      ]
+    }
+  ],
+  "total_bytes": 719666
+}

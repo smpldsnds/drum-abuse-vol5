@@ -1,0 +1,168 @@
+{
+  "id": "vol5",
+  "name": "Drum Abuse Vol.5: MIDI Goes Consumer",
+  "subtitle": "Affordable MIDI rhythm boxes: TR-505, RX-21, Casio MT, DDD-5",
+  "year_start": 1986,
+  "year_end": 1986,
+  "num_machines": 18,
+  "num_samples": 2713,
+  "total_bytes": 231523068,
+  "instruments": [
+    "Agogo",
+    "Bell",
+    "Bongo",
+    "Cabasa",
+    "Clap",
+    "Clave",
+    "Conga",
+    "Cowbell",
+    "Crash",
+    "Cuica",
+    "Cymbal",
+    "FX",
+    "Gong",
+    "Guiro",
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
+    "Kick",
+    "Perc",
+    "Ride",
+    "Rim",
+    "Shaker",
+    "Snare",
+    "Tambourine",
+    "Timbale",
+    "Tom",
+    "Whistle"
+  ],
+  "instrument_slugs": [
+    {
+      "slug": "agogo",
+      "num_samples": 39
+    },
+    {
+      "slug": "bell",
+      "num_samples": 3
+    },
+    {
+      "slug": "bongo",
+      "num_samples": 63
+    },
+    {
+      "slug": "cabasa",
+      "num_samples": 13
+    },
+    {
+      "slug": "clap",
+      "num_samples": 72
+    },
+    {
+      "slug": "clave",
+      "num_samples": 36
+    },
+    {
+      "slug": "conga",
+      "num_samples": 178
+    },
+    {
+      "slug": "cowbell",
+      "num_samples": 118
+    },
+    {
+      "slug": "crash",
+      "num_samples": 69
+    },
+    {
+      "slug": "cuica",
+      "num_samples": 24
+    },
+    {
+      "slug": "cymbal",
+      "num_samples": 8
+    },
+    {
+      "slug": "fx",
+      "num_samples": 6
+    },
+    {
+      "slug": "gong",
+      "num_samples": 5
+    },
+    {
+      "slug": "guiro",
+      "num_samples": 1
+    },
+    {
+      "slug": "hihat-closed",
+      "num_samples": 184
+    },
+    {
+      "slug": "hihat-open",
+      "num_samples": 104
+    },
+    {
+      "slug": "kick",
+      "num_samples": 374
+    },
+    {
+      "slug": "perc",
+      "num_samples": 5
+    },
+    {
+      "slug": "ride",
+      "num_samples": 76
+    },
+    {
+      "slug": "rim",
+      "num_samples": 104
+    },
+    {
+      "slug": "shaker",
+      "num_samples": 1
+    },
+    {
+      "slug": "snare",
+      "num_samples": 359
+    },
+    {
+      "slug": "tambourine",
+      "num_samples": 34
+    },
+    {
+      "slug": "timbale",
+      "num_samples": 58
+    },
+    {
+      "slug": "tom",
+      "num_samples": 344
+    },
+    {
+      "slug": "unknown",
+      "num_samples": 410
+    },
+    {
+      "slug": "whistle",
+      "num_samples": 25
+    }
+  ],
+  "machines": [
+    "casio-ct-403",
+    "casio-cz-230s",
+    "casio-ht-700",
+    "casio-rz-1",
+    "m-p-c-electronics-dsm-1",
+    "pearl-sy-1",
+    "korg-ddd-5",
+    "korg-dss-1",
+    "boss-dr-pad-drp-i",
+    "roland-tr-505",
+    "cheetah-spec-drum",
+    "forat-f-9000",
+    "sequential-circuits-studio-440",
+    "simmons-sds-2000",
+    "simmons-sdx",
+    "yamaha-pss-130",
+    "yamaha-ptx8",
+    "yamaha-rx-21l"
+  ]
+}

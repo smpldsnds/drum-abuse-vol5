@@ -1,0 +1,240 @@
+[
+  {
+    "machine_id": "boss-dr-pad-drp-i",
+    "machine_name": "Boss DR-Pad DRP-I",
+    "release_year": 1986,
+    "url_path": "boss-dr-pad-drp-i/1",
+    "file": "Tamb.wav"
+  },
+  {
+    "machine_id": "forat-f-9000",
+    "machine_name": "Forat F-9000",
+    "release_year": 1986,
+    "url_path": "forat-f-9000/1",
+    "file": "Tamb1.wav"
+  },
+  {
+    "machine_id": "forat-f-9000",
+    "machine_name": "Forat F-9000",
+    "release_year": 1986,
+    "url_path": "forat-f-9000/1",
+    "file": "Tamb2.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tamb [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tamb [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tamb [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tamb [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Tamb [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Dry",
+    "file": "DDD5 Tamb.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tamb [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tamb [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Tamb [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Slammed",
+    "file": "DDD5 Tamb [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Tamb [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Tamb [Long].wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Tamb.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Tamb_Clean.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Tamb_Fat1.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Tamb_Fat2.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Tamb_Tape1.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/1",
+    "file": "RX21L_Tamb_Tape2.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Tamb [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Tamb [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Tamb [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Tamb [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Tamb [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Dry",
+    "file": "RX21L Tamb.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Tamb [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Tamb [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Tamb [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Slammed",
+    "file": "RX21L Tamb [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Tamb [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Tamb [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/3",
+    "file": "Tambourine.wav"
+  }
+]

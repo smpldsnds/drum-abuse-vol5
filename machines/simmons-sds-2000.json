@@ -1,0 +1,230 @@
+{
+  "id": "simmons-sds-2000",
+  "name": "Simmons SDS-2000",
+  "manufacturer": "Simmons",
+  "collection": "Usa_Uk",
+  "country": null,
+  "images": [
+    "Simmons SDS-2000.jpg"
+  ],
+  "release_year": 1986,
+  "release_year_approx": true,
+  "discontinued_year": 1990,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic",
+    "rare"
+  ],
+  "notes": "Simmons module; rare",
+  "instruments": [
+    "Kick",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 8,
+  "num_samples": 40,
+  "sample_sets": [
+    {
+      "path": "1/SDS2000_Factory1",
+      "set": "1",
+      "url_path": "simmons-sds-2000/1/SDS2000_Factory1",
+      "num_samples": 5,
+      "instruments": [
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD1.wav",
+        "HT1.wav",
+        "LT1.wav",
+        "MT1.wav",
+        "SN1.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Snare"
+      ]
+    },
+    {
+      "path": "2/SDS2000_Factory2",
+      "set": "2",
+      "url_path": "simmons-sds-2000/2/SDS2000_Factory2",
+      "num_samples": 5,
+      "instruments": [
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD2.wav",
+        "HT2.wav",
+        "LT2.wav",
+        "MT2.wav",
+        "SN2.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Snare"
+      ]
+    },
+    {
+      "path": "3/SDS2000_Factory3",
+      "set": "3",
+      "url_path": "simmons-sds-2000/3/SDS2000_Factory3",
+      "num_samples": 5,
+      "instruments": [
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD3.WAV",
+        "HT3.WAV",
+        "LT3.WAV",
+        "MT3.WAV",
+        "SN3.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Snare"
+      ]
+    },
+    {
+      "path": "4/SDS2000_Factory4",
+      "set": "4",
+      "url_path": "simmons-sds-2000/4/SDS2000_Factory4",
+      "num_samples": 5,
+      "instruments": [
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD4.WAV",
+        "HT4.WAV",
+        "LT4.WAV",
+        "MT4.WAV",
+        "SN4.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Snare"
+      ]
+    },
+    {
+      "path": "5/SDS2000_Factory5",
+      "set": "5",
+      "url_path": "simmons-sds-2000/5/SDS2000_Factory5",
+      "num_samples": 5,
+      "instruments": [
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD5.WAV",
+        "HT5.WAV",
+        "LT5.WAV",
+        "MT5.WAV",
+        "SN5.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Snare"
+      ]
+    },
+    {
+      "path": "6/SDS2000_Factory6",
+      "set": "6",
+      "url_path": "simmons-sds-2000/6/SDS2000_Factory6",
+      "num_samples": 5,
+      "instruments": [
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD6.WAV",
+        "HT6.WAV",
+        "LT6.WAV",
+        "MT6.WAV",
+        "SN6.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Snare"
+      ]
+    },
+    {
+      "path": "7/SDS2000_Factory7",
+      "set": "7",
+      "url_path": "simmons-sds-2000/7/SDS2000_Factory7",
+      "num_samples": 5,
+      "instruments": [
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD7.WAV",
+        "HT7.WAV",
+        "LT7.WAV",
+        "MT7.WAV",
+        "SN7.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Snare"
+      ]
+    },
+    {
+      "path": "8/SDS2000_Factory8",
+      "set": "8",
+      "url_path": "simmons-sds-2000/8/SDS2000_Factory8",
+      "num_samples": 5,
+      "instruments": [
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD8.WAV",
+        "HT8.WAV",
+        "LT8.WAV",
+        "MT8.WAV",
+        "SN8.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Snare"
+      ]
+    }
+  ],
+  "total_bytes": 2295302
+}

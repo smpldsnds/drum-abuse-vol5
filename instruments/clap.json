@@ -1,0 +1,506 @@
+[
+  {
+    "machine_id": "boss-dr-pad-drp-i",
+    "machine_name": "Boss DR-Pad DRP-I",
+    "release_year": 1986,
+    "url_path": "boss-dr-pad-drp-i/1",
+    "file": "Clap.wav"
+  },
+  {
+    "machine_id": "casio-cz-230s",
+    "machine_name": "Casio CZ-230S",
+    "release_year": 1986,
+    "url_path": "casio-cz-230s/1",
+    "file": "Clap.wav"
+  },
+  {
+    "machine_id": "casio-ht-700",
+    "machine_name": "Casio HT-700",
+    "release_year": 1986,
+    "url_path": "casio-ht-700/1",
+    "file": "Clap.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Clap [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Clap [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Clap [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Clap [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
+    "file": "RZ1 Clap [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Dry",
+    "file": "RZ1 Clap.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Clap [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Clap [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Glitch & Distort",
+    "file": "RZ1 Clap [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Slammed",
+    "file": "RZ1 Clap [Slam].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Clap [Close].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/2/Wet",
+    "file": "RZ1 Clap [Long].wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap808_Clean.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap808_Fat1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap808_Fat2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap808_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap808_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap_Tape2.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap_accent_Fat.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap_accent_Tape1.wav"
+  },
+  {
+    "machine_id": "casio-rz-1",
+    "machine_name": "Casio RZ-1",
+    "release_year": 1986,
+    "url_path": "casio-rz-1/4",
+    "file": "RZ1_Clap_accent_Tape2.wav"
+  },
+  {
+    "machine_id": "cheetah-spec-drum",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Electro_8_E_Clap.wav"
+  },
+  {
+    "machine_id": "cheetah-spec-drum",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Orig_8_Clap.wav"
+  },
+  {
+    "machine_id": "forat-f-9000",
+    "machine_name": "Forat F-9000",
+    "release_year": 1986,
+    "url_path": "forat-f-9000/1",
+    "file": "Clap.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/1",
+    "file": "Clap.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clap [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clap [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clap [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clap [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
+    "file": "DDD5 Clap [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Dry",
+    "file": "DDD5 Clap.wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Clap [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Clap [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Glitch & Distort",
+    "file": "DDD5 Clap [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Slammed",
+    "file": "DDD5 Clap [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Clap [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-5",
+    "machine_name": "Korg DDD-5",
+    "release_year": 1986,
+    "url_path": "korg-ddd-5/2/Wet",
+    "file": "DDD5 Clap [Long].wav"
+  },
+  {
+    "machine_id": "pearl-sy-1",
+    "machine_name": "Pearl SY-1",
+    "release_year": 1986,
+    "url_path": "pearl-sy-1/2",
+    "file": "syn_clap_Pearls_Syncssion.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/3",
+    "file": "Clap_TR-505.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Hand Clap [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Hand Clap [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Hand Clap [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Hand Clap [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Hand Clap [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Dry",
+    "file": "TR505 Hand Clap.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Hand Clap [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Hand Clap [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Hand Clap [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Slammed",
+    "file": "TR505 Hand Clap [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Hand Clap [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Hand Clap [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Clap_C2A.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Clap_C2S.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Clap_T1A.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Clap_T1S.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Clap_aOrig.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Clap.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Hand Clap.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Clap_01_Handy.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Clap_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Clap_01_TechVari.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/8/Hits",
+    "file": "HAND CLAP.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/9",
+    "file": "Reverb Roland TR 505 Sample Pack_Clap.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/1",
+    "file": "CLAP_Sequential_Circuit_Studio440_.wav"
+  },
+  {
+    "machine_id": "sequential-circuits-studio-440",
+    "machine_name": "Sequential Circuits Studio 440",
+    "release_year": 1986,
+    "url_path": "sequential-circuits-studio-440/2",
+    "file": "Clap0.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Clap.wav"
+  },
+  {
+    "machine_id": "yamaha-ptx8",
+    "machine_name": "Yamaha PTX8",
+    "release_year": 1986,
+    "url_path": "yamaha-ptx8/1",
+    "file": "Clap.wav"
+  }
+]

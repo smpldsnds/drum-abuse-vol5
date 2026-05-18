@@ -1,0 +1,60 @@
+{
+  "id": "boss-dr-pad-drp-i",
+  "name": "Boss DR-Pad DRP-I",
+  "manufacturer": "Roland",
+  "collection": "Roland",
+  "country": null,
+  "images": [
+    "Boss DR-Pad DRP-I.jpg"
+  ],
+  "release_year": 1986,
+  "release_year_approx": true,
+  "discontinued_year": 1990,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic"
+  ],
+  "notes": "Early drum pad controller; uncommon",
+  "instruments": [
+    "Clap",
+    "Crash",
+    "Snare",
+    "Tambourine",
+    "Timbale"
+  ],
+  "num_sets": 1,
+  "num_samples": 6,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "boss-dr-pad-drp-i/1",
+      "num_samples": 6,
+      "instruments": [
+        "Clap",
+        "Crash",
+        "Snare",
+        "Tambourine",
+        "Timbale"
+      ],
+      "samples": [
+        "Clap.wav",
+        "Crash.wav",
+        "Snare1.wav",
+        "Snare2.wav",
+        "Tamb.wav",
+        "Timbale.wav"
+      ],
+      "sample_instruments": [
+        "Clap",
+        "Crash",
+        "Snare",
+        "Snare",
+        "Tambourine",
+        "Timbale"
+      ]
+    }
+  ],
+  "total_bytes": 508694
+}

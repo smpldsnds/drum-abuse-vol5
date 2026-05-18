@@ -1,0 +1,408 @@
+[
+  {
+    "machine_id": "boss-dr-pad-drp-i",
+    "machine_name": "Boss DR-Pad DRP-I",
+    "release_year": 1986,
+    "url_path": "boss-dr-pad-drp-i/1",
+    "file": "Timbale.wav"
+  },
+  {
+    "machine_id": "cheetah-spec-drum",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Latin_3_Hi_Timb.wav"
+  },
+  {
+    "machine_id": "cheetah-spec-drum",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Latin_4_Lo_Timb.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/3",
+    "file": "Timbale_TR-505.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Timbale [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Timbale [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Timbale [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Timbale [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
+    "file": "TR505 Timbale [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Dry",
+    "file": "TR505 Timbale.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Timbale [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Timbale [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Glitch & Distort",
+    "file": "TR505 Timbale [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Slammed",
+    "file": "TR505 Timbale [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Timbale [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/4/Wet",
+    "file": "TR505 Timbale [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Timbale_C2A.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Timbale_C2S.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Timbale_T1A.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Timbale_T1S.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/5",
+    "file": "TR505_Timbale_aOrig.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/6",
+    "file": "Timbale.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Timbale_01_Handy.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Timbale_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/7/Vinyl_505",
+    "file": "Vinyl505_Timbale_01_TechVari.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/8/Hits",
+    "file": "TIMBALE.wav"
+  },
+  {
+    "machine_id": "roland-tr-505",
+    "machine_name": "Roland TR-505",
+    "release_year": 1986,
+    "url_path": "roland-tr-505/9",
+    "file": "Reverb Roland TR 505 Sample Pack_Timbale.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Timb Roll1.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Timb Roll2.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Timb Roll3.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Timb Roll4.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Timbale1.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Timbale2.wav"
+  },
+  {
+    "machine_id": "simmons-sdx",
+    "machine_name": "Simmons SDX",
+    "release_year": 1986,
+    "url_path": "simmons-sdx/1",
+    "file": "Timbale3.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba Low [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba Low [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba Low [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba Low [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba Low [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
+    "file": "RX21L Timba [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Dry",
+    "file": "RX21L Timba Low.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Dry",
+    "file": "RX21L Timba.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Timba Low [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Timba Low [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Timba Low [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Timba [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Timba [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Glitch & Distort",
+    "file": "RX21L Timba [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Slammed",
+    "file": "RX21L Timba Low [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Slammed",
+    "file": "RX21L Timba [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Timba Low [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Timba Low [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Timba [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21l",
+    "machine_name": "Yamaha RX-21L",
+    "release_year": 1986,
+    "url_path": "yamaha-rx-21l/2/Wet",
+    "file": "RX21L Timba [Long].wav"
+  }
+]

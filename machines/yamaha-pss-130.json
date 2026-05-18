@@ -1,0 +1,54 @@
+{
+  "id": "yamaha-pss-130",
+  "name": "Yamaha PSS-130",
+  "manufacturer": "Yamaha",
+  "collection": "Yamaha",
+  "country": null,
+  "images": [
+    "Yamaha PSS-130.jpg"
+  ],
+  "release_year": 1986,
+  "release_year_approx": true,
+  "discontinued_year": 1990,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic"
+  ],
+  "notes": "Budget FM keyboard; uncommon",
+  "instruments": [
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
+    "Kick",
+    "Snare"
+  ],
+  "num_sets": 1,
+  "num_samples": 4,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "yamaha-pss-130/1",
+      "num_samples": 4,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Snare"
+      ],
+      "samples": [
+        "BassDrum.wav",
+        "Chh.wav",
+        "Ohh.wav",
+        "SnareDrum.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Snare"
+      ]
+    }
+  ],
+  "total_bytes": 686494
+}
