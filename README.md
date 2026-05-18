@@ -19,28 +19,28 @@ Single-shot drum samples from **18 drum machines** released 1986, extracted from
 
 ## Drum machines
 
-| Year  | Manufacturer        | Model                          | Samples | Size   |
-| ----- | ------------------- | ------------------------------ | ------- | ------ |
-| ~1986 | Casio               | Casio CT-403                   | 9       | 577 KB |
-| ~1986 | Casio               | Casio CZ-230S                  | 12      | 301 KB |
-| ~1986 | Casio               | Casio HT-700                   | 15      | 720 KB |
-| 1986  | Casio               | Casio RZ-1                     | 406     | 22 MB  |
-| ~1986 | Cheetah             | Cheetah Spec-Drum              | 32      | 457 KB |
-| ~1986 | Forat               | Forat F-9000                   | 21      | 616 KB |
-| ~1986 | Korg                | Korg DDD-5                     | 353     | 28 MB  |
-| 1986  | Korg                | Korg DSS-1                     | 188     | 23 MB  |
-| ~1986 | M.P.C. Electronics  | M.P.C. Electronics DSM-1       | 515     | 36 MB  |
-| ~1986 | Pearl               | Pearl SY-1                     | 194     | 15 MB  |
-| ~1986 | Roland              | Boss DR-Pad DRP-I              | 6       | 509 KB |
-| 1986  | Roland              | Roland TR-505                  | 472     | 72 MB  |
-| 1986  | Sequential Circuits | Sequential Circuits Studio 440 | 66      | 3 MB   |
-| ~1986 | Simmons             | Simmons SDS-2000               | 40      | 2 MB   |
-| 1986  | Simmons             | Simmons SDX                    | 56      | 4 MB   |
-| ~1986 | Yamaha              | Yamaha PSS-130                 | 4       | 686 KB |
-| 1986  | Yamaha              | Yamaha PTX8                    | 36      | 2 MB   |
-| ~1986 | Yamaha              | Yamaha RX-21L                  | 288     | 20 MB  |
+| Year | Manufacturer | Model | Samples | Size |
+|---|---|---|---|---|
+| ~1986 | Casio | Casio CT-403 | 9 | 577 KB |
+| ~1986 | Casio | Casio CZ-230S | 12 | 301 KB |
+| ~1986 | Casio | Casio HT-700 | 15 | 720 KB |
+| 1986 | Casio | Casio RZ-1 | 406 | 22 MB |
+| ~1986 | Cheetah | Cheetah Spec-Drum | 32 | 457 KB |
+| ~1986 | Forat | Forat F-9000 | 21 | 616 KB |
+| ~1986 | Korg | Korg DDD-5 | 353 | 28 MB |
+| 1986 | Korg | Korg DSS-1 | 188 | 23 MB |
+| ~1986 | M.P.C. Electronics | M.P.C. Electronics DSM-1 | 515 | 36 MB |
+| ~1986 | Pearl | Pearl SY-1 | 194 | 15 MB |
+| ~1986 | Roland | Boss DR-Pad DRP-I | 6 | 509 KB |
+| 1986 | Roland | Roland TR-505 | 472 | 72 MB |
+| 1986 | Sequential Circuits | Sequential Circuits Studio 440 | 66 | 3 MB |
+| ~1986 | Simmons | Simmons SDS-2000 | 40 | 2 MB |
+| 1986 | Simmons | Simmons SDX | 56 | 4 MB |
+| ~1986 | Yamaha | Yamaha PSS-130 | 4 | 686 KB |
+| 1986 | Yamaha | Yamaha PTX8 | 36 | 2 MB |
+| ~1986 | Yamaha | Yamaha RX-21L | 288 | 20 MB |
 
-_Sorted by release year, then manufacturer, then model._
+*Sorted by release year, then manufacturer, then model.*
 
 ## License
 

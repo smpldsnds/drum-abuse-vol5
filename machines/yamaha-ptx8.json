@@ -1,5 +1,6 @@
 {
   "id": "yamaha-ptx8",
+  "pack_id": "vol5",
   "name": "Yamaha PTX8",
   "manufacturer": "Yamaha",
   "collection": "Yamaha",
@@ -23,6 +24,7 @@
     "FX",
     "Hi-Hat Closed",
     "Kick",
+    "Ride",
     "Rim",
     "Snare",
     "Tom"
@@ -44,6 +46,7 @@
         "FX",
         "Hi-Hat Closed",
         "Kick",
+        "Ride",
         "Rim",
         "Snare",
         "Tom"
@@ -96,7 +99,7 @@
         "Conga",
         "Cowbell",
         "Crash",
-        "",
+        "Ride",
         "",
         "",
         "",

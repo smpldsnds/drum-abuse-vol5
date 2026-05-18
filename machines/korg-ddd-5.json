@@ -1,5 +1,6 @@
 {
   "id": "korg-ddd-5",
+  "pack_id": "vol5",
   "name": "Korg DDD-5",
   "manufacturer": "Korg",
   "collection": "Korg",
@@ -45,6 +46,7 @@
       "num_samples": 29,
       "instruments": [
         "Agogo",
+        "Bongo",
         "Cabasa",
         "Clap",
         "Conga",
@@ -103,10 +105,10 @@
         "",
         "Hi-Hat Closed",
         "Hi-Hat Open",
-        "",
+        "Bongo",
         "Conga",
         "",
-        "",
+        "Bongo",
         "Conga",
         "Perc",
         "",

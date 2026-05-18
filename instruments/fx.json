@@ -1,6 +1,7 @@
 [
   {
     "machine_id": "pearl-sy-1",
+    "pack_id": "vol5",
     "machine_name": "Pearl SY-1",
     "release_year": 1986,
     "url_path": "pearl-sy-1/2",
@@ -8,6 +9,7 @@
   },
   {
     "machine_id": "pearl-sy-1",
+    "pack_id": "vol5",
     "machine_name": "Pearl SY-1",
     "release_year": 1986,
     "url_path": "pearl-sy-1/2",
@@ -15,6 +17,7 @@
   },
   {
     "machine_id": "sequential-circuits-studio-440",
+    "pack_id": "vol5",
     "machine_name": "Sequential Circuits Studio 440",
     "release_year": 1986,
     "url_path": "sequential-circuits-studio-440/1",
@@ -22,6 +25,7 @@
   },
   {
     "machine_id": "sequential-circuits-studio-440",
+    "pack_id": "vol5",
     "machine_name": "Sequential Circuits Studio 440",
     "release_year": 1986,
     "url_path": "sequential-circuits-studio-440/1",
@@ -29,6 +33,7 @@
   },
   {
     "machine_id": "sequential-circuits-studio-440",
+    "pack_id": "vol5",
     "machine_name": "Sequential Circuits Studio 440",
     "release_year": 1986,
     "url_path": "sequential-circuits-studio-440/2",
@@ -36,6 +41,7 @@
   },
   {
     "machine_id": "yamaha-ptx8",
+    "pack_id": "vol5",
     "machine_name": "Yamaha PTX8",
     "release_year": 1986,
     "url_path": "yamaha-ptx8/1",

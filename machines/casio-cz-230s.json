@@ -1,5 +1,6 @@
 {
   "id": "casio-cz-230s",
+  "pack_id": "vol5",
   "name": "Casio CZ-230S",
   "manufacturer": "Casio",
   "collection": "Japan",
@@ -26,7 +27,8 @@
     "Kick",
     "Ride",
     "Rim",
-    "Snare"
+    "Snare",
+    "Tom"
   ],
   "num_sets": 1,
   "num_samples": 12,
@@ -45,7 +47,8 @@
         "Kick",
         "Ride",
         "Rim",
-        "Snare"
+        "Snare",
+        "Tom"
       ],
       "samples": [
         "Chh.wav",
@@ -71,9 +74,9 @@
         "Ride",
         "Rim",
         "Snare",
-        "",
-        "",
-        ""
+        "Tom",
+        "Tom",
+        "Tom"
       ]
     }
   ],

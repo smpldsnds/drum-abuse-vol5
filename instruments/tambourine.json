@@ -1,13 +1,23 @@
 [
   {
     "machine_id": "boss-dr-pad-drp-i",
+    "pack_id": "vol5",
     "machine_name": "Boss DR-Pad DRP-I",
     "release_year": 1986,
     "url_path": "boss-dr-pad-drp-i/1",
     "file": "Tamb.wav"
   },
   {
+    "machine_id": "cheetah-spec-drum",
+    "pack_id": "vol5",
+    "machine_name": "Cheetah Spec-Drum",
+    "release_year": 1986,
+    "url_path": "cheetah-spec-drum/1",
+    "file": "Latin_8_Tambori.wav"
+  },
+  {
     "machine_id": "forat-f-9000",
+    "pack_id": "vol5",
     "machine_name": "Forat F-9000",
     "release_year": 1986,
     "url_path": "forat-f-9000/1",
@@ -15,6 +25,7 @@
   },
   {
     "machine_id": "forat-f-9000",
+    "pack_id": "vol5",
     "machine_name": "Forat F-9000",
     "release_year": 1986,
     "url_path": "forat-f-9000/1",
@@ -22,6 +33,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -29,6 +41,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -36,6 +49,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -43,6 +57,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -50,6 +65,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -57,6 +73,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Dry",
@@ -64,6 +81,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Glitch & Distort",
@@ -71,6 +89,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Glitch & Distort",
@@ -78,6 +97,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Glitch & Distort",
@@ -85,6 +105,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Slammed",
@@ -92,6 +113,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Wet",
@@ -99,6 +121,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Wet",
@@ -106,6 +129,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -113,6 +137,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/1",
@@ -120,6 +145,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/1",
@@ -127,6 +153,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/1",
@@ -134,6 +161,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/1",
@@ -141,6 +169,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/1",
@@ -148,6 +177,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -155,6 +185,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -162,6 +193,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -169,6 +201,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -176,6 +209,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -183,6 +217,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Dry",
@@ -190,6 +225,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Glitch & Distort",
@@ -197,6 +233,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Glitch & Distort",
@@ -204,6 +241,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Glitch & Distort",
@@ -211,6 +249,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Slammed",
@@ -218,6 +257,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Wet",
@@ -225,6 +265,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Wet",
@@ -232,6 +273,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/3",

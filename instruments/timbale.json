@@ -1,6 +1,7 @@
 [
   {
     "machine_id": "boss-dr-pad-drp-i",
+    "pack_id": "vol5",
     "machine_name": "Boss DR-Pad DRP-I",
     "release_year": 1986,
     "url_path": "boss-dr-pad-drp-i/1",
@@ -8,6 +9,7 @@
   },
   {
     "machine_id": "cheetah-spec-drum",
+    "pack_id": "vol5",
     "machine_name": "Cheetah Spec-Drum",
     "release_year": 1986,
     "url_path": "cheetah-spec-drum/1",
@@ -15,6 +17,7 @@
   },
   {
     "machine_id": "cheetah-spec-drum",
+    "pack_id": "vol5",
     "machine_name": "Cheetah Spec-Drum",
     "release_year": 1986,
     "url_path": "cheetah-spec-drum/1",
@@ -22,6 +25,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/3",
@@ -29,6 +33,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -36,6 +41,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -43,6 +49,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -50,6 +57,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -57,6 +65,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -64,6 +73,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Dry",
@@ -71,6 +81,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Glitch & Distort",
@@ -78,6 +89,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Glitch & Distort",
@@ -85,6 +97,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Glitch & Distort",
@@ -92,6 +105,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Slammed",
@@ -99,6 +113,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Wet",
@@ -106,6 +121,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Wet",
@@ -113,6 +129,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -120,6 +137,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -127,6 +145,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -134,6 +153,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -141,6 +161,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -148,6 +169,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/6",
@@ -155,6 +177,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/7/Vinyl_505",
@@ -162,6 +185,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/7/Vinyl_505",
@@ -169,6 +193,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/7/Vinyl_505",
@@ -176,6 +201,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/8/Hits",
@@ -183,6 +209,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/9",
@@ -190,6 +217,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -197,6 +225,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -204,6 +233,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -211,6 +241,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -218,6 +249,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -225,6 +257,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -232,6 +265,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -239,6 +273,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -246,6 +281,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -253,6 +289,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -260,6 +297,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -267,6 +305,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -274,6 +313,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -281,6 +321,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -288,6 +329,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -295,6 +337,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -302,6 +345,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/8bit Degraded [Mono]",
@@ -309,6 +353,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Dry",
@@ -316,6 +361,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Dry",
@@ -323,6 +369,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Glitch & Distort",
@@ -330,6 +377,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Glitch & Distort",
@@ -337,6 +385,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Glitch & Distort",
@@ -344,6 +393,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Glitch & Distort",
@@ -351,6 +401,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Glitch & Distort",
@@ -358,6 +409,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Glitch & Distort",
@@ -365,6 +417,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Slammed",
@@ -372,6 +425,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Slammed",
@@ -379,6 +433,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Wet",
@@ -386,6 +441,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Wet",
@@ -393,6 +449,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Wet",
@@ -400,6 +457,7 @@
   },
   {
     "machine_id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "machine_name": "Yamaha RX-21L",
     "release_year": 1986,
     "url_path": "yamaha-rx-21l/2/Wet",

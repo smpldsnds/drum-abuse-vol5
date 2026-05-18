@@ -1,6 +1,7 @@
 [
   {
     "id": "casio-ct-403",
+    "pack_id": "vol5",
     "name": "Casio CT-403",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -29,6 +30,7 @@
   },
   {
     "id": "casio-cz-230s",
+    "pack_id": "vol5",
     "name": "Casio CZ-230S",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -54,7 +56,8 @@
       "Kick",
       "Ride",
       "Rim",
-      "Snare"
+      "Snare",
+      "Tom"
     ],
     "num_sets": 1,
     "num_samples": 12,
@@ -62,6 +65,7 @@
   },
   {
     "id": "casio-ht-700",
+    "pack_id": "vol5",
     "name": "Casio HT-700",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -95,6 +99,7 @@
   },
   {
     "id": "casio-rz-1",
+    "pack_id": "vol5",
     "name": "Casio RZ-1",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -131,6 +136,7 @@
   },
   {
     "id": "cheetah-spec-drum",
+    "pack_id": "vol5",
     "name": "Cheetah Spec-Drum",
     "manufacturer": "Cheetah",
     "collection": "Usa_Uk",
@@ -158,6 +164,7 @@
       "Kick",
       "Rim",
       "Snare",
+      "Tambourine",
       "Timbale",
       "Tom",
       "Whistle"
@@ -168,6 +175,7 @@
   },
   {
     "id": "forat-f-9000",
+    "pack_id": "vol5",
     "name": "Forat F-9000",
     "manufacturer": "Forat",
     "collection": "Usa_Uk",
@@ -204,6 +212,7 @@
   },
   {
     "id": "korg-ddd-5",
+    "pack_id": "vol5",
     "name": "Korg DDD-5",
     "manufacturer": "Korg",
     "collection": "Korg",
@@ -244,6 +253,7 @@
   },
   {
     "id": "korg-dss-1",
+    "pack_id": "vol5",
     "name": "Korg DSS-1",
     "manufacturer": "Korg",
     "collection": "Korg",
@@ -276,6 +286,7 @@
   },
   {
     "id": "m-p-c-electronics-dsm-1",
+    "pack_id": "vol5",
     "name": "M.P.C. Electronics DSM-1",
     "manufacturer": "M.P.C. Electronics",
     "collection": "Japan",
@@ -305,6 +316,7 @@
   },
   {
     "id": "pearl-sy-1",
+    "pack_id": "vol5",
     "name": "Pearl SY-1",
     "manufacturer": "Pearl",
     "collection": "Japan",
@@ -326,6 +338,7 @@
       "FX",
       "Hi-Hat Closed",
       "Kick",
+      "Perc",
       "Snare"
     ],
     "num_sets": 3,
@@ -334,6 +347,7 @@
   },
   {
     "id": "boss-dr-pad-drp-i",
+    "pack_id": "vol5",
     "name": "Boss DR-Pad DRP-I",
     "manufacturer": "Roland",
     "collection": "Roland",
@@ -362,6 +376,7 @@
   },
   {
     "id": "roland-tr-505",
+    "pack_id": "vol5",
     "name": "Roland TR-505",
     "manufacturer": "Roland",
     "collection": "Roland",
@@ -398,6 +413,7 @@
   },
   {
     "id": "sequential-circuits-studio-440",
+    "pack_id": "vol5",
     "name": "Sequential Circuits Studio 440",
     "manufacturer": "Sequential Circuits",
     "collection": "Usa_Uk",
@@ -437,6 +453,7 @@
   },
   {
     "id": "simmons-sds-2000",
+    "pack_id": "vol5",
     "name": "Simmons SDS-2000",
     "manufacturer": "Simmons",
     "collection": "Usa_Uk",
@@ -464,6 +481,7 @@
   },
   {
     "id": "simmons-sdx",
+    "pack_id": "vol5",
     "name": "Simmons SDX",
     "manufacturer": "Simmons",
     "collection": "Usa_Uk",
@@ -502,6 +520,7 @@
   },
   {
     "id": "yamaha-pss-130",
+    "pack_id": "vol5",
     "name": "Yamaha PSS-130",
     "manufacturer": "Yamaha",
     "collection": "Yamaha",
@@ -529,6 +548,7 @@
   },
   {
     "id": "yamaha-ptx8",
+    "pack_id": "vol5",
     "name": "Yamaha PTX8",
     "manufacturer": "Yamaha",
     "collection": "Yamaha",
@@ -551,6 +571,7 @@
       "FX",
       "Hi-Hat Closed",
       "Kick",
+      "Ride",
       "Rim",
       "Snare",
       "Tom"
@@ -561,6 +582,7 @@
   },
   {
     "id": "yamaha-rx-21l",
+    "pack_id": "vol5",
     "name": "Yamaha RX-21L",
     "manufacturer": "Yamaha",
     "collection": "Yamaha",

@@ -1,13 +1,31 @@
 [
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/1",
     "file": "Metal.wav"
   },
   {
+    "machine_id": "pearl-sy-1",
+    "pack_id": "vol5",
+    "machine_name": "Pearl SY-1",
+    "release_year": 1986,
+    "url_path": "pearl-sy-1/2",
+    "file": "syn_HighFiltPerc_Pearls_Syncssion.wav"
+  },
+  {
+    "machine_id": "pearl-sy-1",
+    "pack_id": "vol5",
+    "machine_name": "Pearl SY-1",
+    "release_year": 1986,
+    "url_path": "pearl-sy-1/2",
+    "file": "syn_HighPerc_Pearls_Syncssion.wav"
+  },
+  {
     "machine_id": "sequential-circuits-studio-440",
+    "pack_id": "vol5",
     "machine_name": "Sequential Circuits Studio 440",
     "release_year": 1986,
     "url_path": "sequential-circuits-studio-440/1",
@@ -15,6 +33,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -22,6 +41,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -29,6 +49,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",

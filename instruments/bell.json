@@ -1,6 +1,7 @@
 [
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -8,6 +9,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -15,6 +17,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",

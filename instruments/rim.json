@@ -1,6 +1,7 @@
 [
   {
     "machine_id": "casio-cz-230s",
+    "pack_id": "vol5",
     "machine_name": "Casio CZ-230S",
     "release_year": 1986,
     "url_path": "casio-cz-230s/1",
@@ -8,6 +9,7 @@
   },
   {
     "machine_id": "casio-ht-700",
+    "pack_id": "vol5",
     "machine_name": "Casio HT-700",
     "release_year": 1986,
     "url_path": "casio-ht-700/1",
@@ -15,6 +17,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/1",
@@ -22,6 +25,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
@@ -29,6 +33,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
@@ -36,6 +41,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
@@ -43,6 +49,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
@@ -50,6 +57,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/8bit Degraded [Mono]",
@@ -57,6 +65,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/Dry",
@@ -64,6 +73,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/Glitch & Distort",
@@ -71,6 +81,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/Glitch & Distort",
@@ -78,6 +89,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/Glitch & Distort",
@@ -85,6 +97,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/Slammed",
@@ -92,6 +105,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/Wet",
@@ -99,6 +113,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/2/Wet",
@@ -106,6 +121,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -113,6 +129,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -120,6 +137,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -127,6 +145,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -134,6 +153,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -141,6 +161,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -148,6 +169,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -155,6 +177,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -162,6 +185,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -169,6 +193,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -176,6 +201,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -183,6 +209,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -190,6 +217,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -197,6 +225,7 @@
   },
   {
     "machine_id": "casio-rz-1",
+    "pack_id": "vol5",
     "machine_name": "Casio RZ-1",
     "release_year": 1986,
     "url_path": "casio-rz-1/4",
@@ -204,6 +233,7 @@
   },
   {
     "machine_id": "cheetah-spec-drum",
+    "pack_id": "vol5",
     "machine_name": "Cheetah Spec-Drum",
     "release_year": 1986,
     "url_path": "cheetah-spec-drum/1",
@@ -211,6 +241,7 @@
   },
   {
     "machine_id": "forat-f-9000",
+    "pack_id": "vol5",
     "machine_name": "Forat F-9000",
     "release_year": 1986,
     "url_path": "forat-f-9000/1",
@@ -218,6 +249,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/1",
@@ -225,6 +257,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/1",
@@ -232,6 +265,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -239,6 +273,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -246,6 +281,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -253,6 +289,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -260,6 +297,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -267,6 +305,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -274,6 +313,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -281,6 +321,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -288,6 +329,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -295,6 +337,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/8bit Degraded [Mono]",
@@ -302,6 +345,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Dry",
@@ -309,6 +353,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Dry",
@@ -316,6 +361,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Glitch & Distort",
@@ -323,6 +369,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Glitch & Distort",
@@ -330,6 +377,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Glitch & Distort",
@@ -337,6 +385,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Glitch & Distort",
@@ -344,6 +393,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Glitch & Distort",
@@ -351,6 +401,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Glitch & Distort",
@@ -358,6 +409,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Slammed",
@@ -365,6 +417,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Slammed",
@@ -372,6 +425,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Wet",
@@ -379,6 +433,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Wet",
@@ -386,6 +441,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Wet",
@@ -393,6 +449,7 @@
   },
   {
     "machine_id": "korg-ddd-5",
+    "pack_id": "vol5",
     "machine_name": "Korg DDD-5",
     "release_year": 1986,
     "url_path": "korg-ddd-5/2/Wet",
@@ -400,6 +457,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/1",
@@ -407,6 +465,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/2",
@@ -414,6 +473,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/2",
@@ -421,6 +481,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/2",
@@ -428,6 +489,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/2",
@@ -435,6 +497,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/3",
@@ -442,6 +505,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/4",
@@ -449,6 +513,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/4",
@@ -456,6 +521,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/4",
@@ -463,6 +529,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/4",
@@ -470,6 +537,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/5",
@@ -477,6 +545,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/6",
@@ -484,6 +553,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/7",
@@ -491,6 +561,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/7",
@@ -498,6 +569,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/7",
@@ -505,6 +577,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/8",
@@ -512,6 +585,7 @@
   },
   {
     "machine_id": "korg-dss-1",
+    "pack_id": "vol5",
     "machine_name": "Korg DSS-1",
     "release_year": 1986,
     "url_path": "korg-dss-1/9",
@@ -519,6 +593,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/1",
@@ -526,6 +601,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/2",
@@ -533,6 +609,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/3",
@@ -540,6 +617,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -547,6 +625,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -554,6 +633,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -561,6 +641,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -568,6 +649,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/8bit Degraded [Mono]",
@@ -575,6 +657,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Dry",
@@ -582,6 +665,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Glitch & Distort",
@@ -589,6 +673,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Glitch & Distort",
@@ -596,6 +681,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Glitch & Distort",
@@ -603,6 +689,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Slammed",
@@ -610,6 +697,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Wet",
@@ -617,6 +705,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/4/Wet",
@@ -624,6 +713,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -631,6 +721,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -638,6 +729,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -645,6 +737,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -652,6 +745,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -659,6 +753,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/6",
@@ -666,6 +761,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/6",
@@ -673,6 +769,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/7/Vinyl_505",
@@ -680,6 +777,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/7/Vinyl_505",
@@ -687,6 +785,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/7/Vinyl_505",
@@ -694,6 +793,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/8/Hits",
@@ -701,6 +801,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/9",
@@ -708,6 +809,7 @@
   },
   {
     "machine_id": "sequential-circuits-studio-440",
+    "pack_id": "vol5",
     "machine_name": "Sequential Circuits Studio 440",
     "release_year": 1986,
     "url_path": "sequential-circuits-studio-440/1",
@@ -715,6 +817,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",
@@ -722,6 +825,7 @@
   },
   {
     "machine_id": "yamaha-ptx8",
+    "pack_id": "vol5",
     "machine_name": "Yamaha PTX8",
     "release_year": 1986,
     "url_path": "yamaha-ptx8/1",

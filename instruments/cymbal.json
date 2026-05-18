@@ -1,6 +1,7 @@
 [
   {
     "machine_id": "cheetah-spec-drum",
+    "pack_id": "vol5",
     "machine_name": "Cheetah Spec-Drum",
     "release_year": 1986,
     "url_path": "cheetah-spec-drum/1",
@@ -8,6 +9,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -15,6 +17,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -22,6 +25,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/5",
@@ -29,6 +33,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/7/Vinyl_505",
@@ -36,6 +41,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/7/Vinyl_505",
@@ -43,6 +49,7 @@
   },
   {
     "machine_id": "roland-tr-505",
+    "pack_id": "vol5",
     "machine_name": "Roland TR-505",
     "release_year": 1986,
     "url_path": "roland-tr-505/7/Vinyl_505",
@@ -50,6 +57,7 @@
   },
   {
     "machine_id": "simmons-sdx",
+    "pack_id": "vol5",
     "machine_name": "Simmons SDX",
     "release_year": 1986,
     "url_path": "simmons-sdx/1",

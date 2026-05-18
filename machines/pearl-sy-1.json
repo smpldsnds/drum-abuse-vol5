@@ -1,5 +1,6 @@
 {
   "id": "pearl-sy-1",
+  "pack_id": "vol5",
   "name": "Pearl SY-1",
   "manufacturer": "Pearl",
   "collection": "Japan",
@@ -22,6 +23,7 @@
     "FX",
     "Hi-Hat Closed",
     "Kick",
+    "Perc",
     "Snare"
   ],
   "num_sets": 3,
@@ -196,6 +198,7 @@
         "FX",
         "Hi-Hat Closed",
         "Kick",
+        "Perc",
         "Snare"
       ],
       "samples": [
@@ -220,8 +223,8 @@
         "",
         "Hi-Hat Closed",
         "",
-        "",
-        "",
+        "Perc",
+        "Perc",
         "",
         "",
         "Kick",
